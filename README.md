@@ -15,8 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/huggingface.png" alt="Huggingface" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/langchain.png" alt="LangChain" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/170677839.png" alt="Crewai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/scipy.png" alt="Scipy" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/MS%20Excel.png" alt="Excel" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/PowerBi.png" alt="PowerBi" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
