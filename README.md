@@ -35,3 +35,4 @@
     <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/R.png" alt="R" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/openai.png" alt="openai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
+https://github.com/SubinoyBera/SubinoyBera/blob/main/images/download.png
