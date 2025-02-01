@@ -1,9 +1,8 @@
-## <h2>Greetings!! Nice to see you...</h2>
-
-## <h1>I'm Subinoy 😃</h1>
+## <h1>Greetings!! Nice to see you...</h1>
+## <h1 align=center>I'm Subinoy 😃</h1>
+<h4 align=center>I am an AI Engineer and Data Scientist</h4>
 
 ## Languages and Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
