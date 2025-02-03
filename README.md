@@ -1,6 +1,15 @@
 ## <h1> Greetings!!👋 Nice to see you... </h1>
 ## <h1 align=center>I'm Subinoy 😃</h1>
-<h3 align=center>I am an AI Engineer and Data Scientist</h3>
+<p align=center style="font-size: 40px;">I am an AI Engineer and Data Scientist</p>
+
+## Skills
+<p>Generative AI</p>
+<p>AI Agents</p>
+<p>Deep Learning</p>
+<p>Machine Learning</p>
+<p>MLOps</p>
+<p>Data Science</p>
+<p>Business Intelligence</p>
 
 ## Languages and Tools
 <p align="center">
