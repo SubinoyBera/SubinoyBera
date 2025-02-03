@@ -1,17 +1,17 @@
-## <h1> Greetings!!👋 Nice to see you... </h1>
+# <h1>Hi there!<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50"/> Nice to see you.</h1>
 ## <h1 align=center>I'm Subinoy 😃</h1>
-<p align=center style="font-size: 40px;">I am an AI Engineer and Data Scientist</p>
+<h3 align=center>I am an AI Engineer and Data Scientist</h3>
 
-## Skills
-<p>Generative AI</p>
-<p>AI Agents</p>
-<p>Deep Learning</p>
-<p>Machine Learning</p>
-<p>MLOps</p>
-<p>Data Science</p>
-<p>Business Intelligence</p>
+## Skills:
+<p>● Generative AI</p>
+<p>● Agentic AI</p>
+<p>● Deep Learning</p>
+<p>● Reinforcement Learning</p>
+<p>● Machine Learning & MLOps</p>
+<p>● Data Science & Engineering</p>
+<p>● Business Intelligence</p>
 
-## Languages and Tools
+## Languages and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
@@ -48,3 +48,16 @@
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/openai.png" alt="openai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
 
+## Hobbies and Interests:
+<p>● Exploring Technology</p>
+<p>● Open source contribution</p>
+<p>● Building side projects</p>
+<p>● Cricket, Chess, Coding</p>
+
+## Also find me on:
+<a href="https://linkedin.com/in/subinoy-bera-0b5ab125a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+<a href="https://x.com/Subinoy013" target="_blank">
+    <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/X.jpeg" width="40" height="40"/>
+</a>
