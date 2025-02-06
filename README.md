@@ -58,6 +58,7 @@
 <a href="https://linkedin.com/in/subinoy-bera-0b5ab125a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/Subinoy013" target="_blank">
     <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/X.jpeg" width="40" height="40"/>
 </a>
