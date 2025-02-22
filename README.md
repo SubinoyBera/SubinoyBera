@@ -29,10 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/cassandra.png" alt="Cassandra" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/crewai.png" alt="Crewai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/langchain.png" alt="LangChain" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/huggingface.png" alt="Huggingface" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/huggingface.png" alt="Huggingface" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/langchain.png" alt="LangChain" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/MS%20Excel.png" alt="Excel" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
