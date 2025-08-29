@@ -9,7 +9,7 @@
 <p>● Reinforcement Learning</p>
 <p>● Machine Learning & MLOps</p>
 <p>● Data Science & Engineering</p>
-<p>● Business Intelligence</p>
+<p>● Mathematics & Statistics</p>
 
 ## Languages and Tools:
 <p align="center">
