@@ -1,6 +1,6 @@
-# <h1>Hi there!<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50"/>  Delighted to have you here. 😃</h1>
-## <h1 align=center>I'm Subinoy Bera 🙂</h1>
-<h3 align=center>AI Engineer  ||  Data Scientist</h3>
+# <h1>Hi there!! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50"/> <br> Welcome - Delighted to have you here! 😃</h1>
+## <h1 align=center>I'm Subinoy Bera</h1>
+<h3 align=center>AI Engineer  |  Data Scientist</h3>
 
 ## Technical Skills:
 <p>● Generative AI</p>
