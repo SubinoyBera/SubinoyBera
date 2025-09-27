@@ -6,7 +6,6 @@
 <p>● Agentic AI</p>
 <p>● Generative AI</p>
 <p>● Deep Learning</p>
-<p>● Reinforcement Learning</p>
 <p>● Machine Learning & MLOps</p>
 <p>● Data Science & Engineering</p>
 <p>● Mathematics & Statistics</p>
@@ -47,6 +46,24 @@
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/chromaDB.png" alt="ChromaDB" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/openai.png" alt="openai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SubinoyBera&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SubinoyBera&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinoyBera&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SubinoyBera&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SubinoyBera&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SubinoyBera&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## Hobbies and Interests 
 <p>● Exploring Technology</p>
