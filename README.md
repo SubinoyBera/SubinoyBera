@@ -2,7 +2,7 @@
 ## <h1 align=center>I'm Subinoy Bera</h1>
 <h3 align=center>AI Engineer  |  Data Scientist</h3>
 
-## Technical Skills 
+## 🎓 Skills 
 <p>● Agentic AI</p>
 <p>● Generative AI</p>
 <p>● Deep Learning</p>
@@ -10,7 +10,7 @@
 <p>● Data Science & Engineering</p>
 <p>● Mathematics & Statistics</p>
 
-## Languages and Tools 
+## 💻 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
@@ -47,12 +47,12 @@
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/openai.png" alt="openai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SubinoyBera&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SubinoyBera&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubinoyBera&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 Stats
+<img src="https://nirzak-streak-stats.vercel.app/?user=SubinoyBera&theme=dark&hide_border=false" width="48%" /> &nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubinoyBera&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="33%" />
 
-## 🏆 GitHub Trophies
+
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SubinoyBera&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
