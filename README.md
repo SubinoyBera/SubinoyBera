@@ -2,7 +2,7 @@
 ## <h1 align=center>I'm Subinoy Bera</h1>
 <h3 align=center>AI Engineer  |  Data Scientist</h3>
 
-## 🎓 Skills 
+## I have technical skills and interest in: 
 <p>● Agentic AI</p>
 <p>● Generative AI</p>
 <p>● Deep Learning</p>
