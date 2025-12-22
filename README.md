@@ -24,9 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/download.png" alt="Flask" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="Python" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/chromaDB.png" alt="ChromaDB" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/langchain.png" alt="LangChain" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/huggingface.png" alt="Huggingface" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
@@ -39,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/PowerBi.png" alt="PowerBi" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/R.png" alt="R" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/chromaDB.png" alt="ChromaDB" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/openai.png" alt="openai" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
 
