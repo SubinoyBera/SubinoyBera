@@ -32,7 +32,7 @@
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/huggingface.png" alt="Huggingface" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="Github Actions" width="50" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="Github Actions" width="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/mlflow.png" alt="MLflow" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://github.com/SubinoyBera/SubinoyBera/blob/main/images/DVC.png" alt="DVC" width="50" height="40" style="border-radius: 50%; margin: 10px;"/>
